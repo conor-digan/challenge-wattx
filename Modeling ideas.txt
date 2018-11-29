@@ -1,0 +1,6 @@
+Modeling ideas:
+
+- split into recurring, ad-hoc, continuation of previous meeting
+
+1. Naiive bayes
+	- Variables:
